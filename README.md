@@ -1,5 +1,5 @@
-# BongoPiran Store Demo
+# LAAZ Store Demo
 
-Free preview demo of the BongoPiran store (bongopiran.com), built from the store's real products, prices and images.
+Free preview demo store for LAAZ, built with real products, prices and photos.
 
 This is a visual preview only - checkout does not place real orders.
